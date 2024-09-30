@@ -11,6 +11,8 @@ I Am Yinhla Makamu, a Computer Science Graduate from Tshwane University of Techn
 <h2>Development Skills</h2>
 <li>Java</li>
 <li>Javascript</li>
+<li>Node JS</li>
+<li>React</li>
 <li>Springboot</li>
 <li>Python</li>
 <li>Django</li>
